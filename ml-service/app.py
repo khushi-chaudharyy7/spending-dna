@@ -3,6 +3,7 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 from utils.categorizer import categorize
 from utils.dna_engine import analyze_spending_dna
+import os
 
 load_dotenv()
 
@@ -28,4 +29,5 @@ def analyze():
     return jsonify(result)
 
 if __name__ == '__main__':
-    app.run(port=5001, debug=True)
+    port = int(os.environ.get('PORT', 5001))
+    app.run(host='0.0.0.0', port=port, debug=False)
