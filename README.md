@@ -113,16 +113,6 @@ npm run dev
 - **Health Score** — Weighted penalty system based on risky behavioral patterns
 - **Anomaly Detection** — Statistical spike detection using mean + 2σ threshold
 
----
 
-## Resume Description
 
-**Spending DNA** — AI-Powered Financial Personality Analyzer  
-*React.js · Node.js · Python · Flask · MongoDB · Groq API*
 
-Built a full-stack behavioral finance platform using a microservices architecture (React/Vite + Node.js/Express + Python/Flask + MongoDB Atlas). Implemented automated expense categorization using NLP keyword matching, a behavioral analytics engine that classifies users into spending personality profiles, and a financial health scoring system. Integrated Groq's Llama 3.1 model for AI-generated personalized recommendations. Designed interactive dashboards with Recharts including radar, pie, and bar chart visualizations.
-
----
-
-## Screenshots
-*(Add screenshots of Landing, Dashboard, DNA page, Recommendations)*
