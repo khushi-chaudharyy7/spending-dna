@@ -3,8 +3,6 @@
 
 Spending DNA analyzes your transaction history and builds a personalized behavioral financial profile — revealing spending patterns, habits, and insights you never knew existed.
 
-> Built as a portfolio project to demonstrate full-stack development, microservices architecture, and ML integration.
-
 ---
 
 ## Live Demo
